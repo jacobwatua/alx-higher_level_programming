@@ -1,3 +1,1 @@
-Introduction to programming in python
-
-- String formating
+Higher level programming in python
